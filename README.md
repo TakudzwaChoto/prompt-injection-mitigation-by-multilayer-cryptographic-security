@@ -1,6 +1,6 @@
 # Prompt Injection Mitigation by Multilayer Cryptographic Security
 
-A professional-grade, research-oriented framework for defending Large Language Model (LLM)-powered applications against prompt injection and adversarial attacks, using a multi-layered approach that combines advanced cryptographic logging, real-time prompt analysis, and secure auditing.
+A grade, research-oriented framework for defending Large Language Model (LLM)-powered applications against prompt injection and adversarial attacks, using a multi-layered approach that combines advanced cryptographic logging, real-time prompt analysis, and secure auditing.
 
 ---
 
